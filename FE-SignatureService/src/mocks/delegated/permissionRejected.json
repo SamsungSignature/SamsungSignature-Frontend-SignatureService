@@ -1,0 +1,9 @@
+{
+  "message": "대리 결제 요청이 성공적으로 거절 처리되었습니다.",
+  "body": {
+    "from_id": 1,
+    "from_name": "강모씨",
+    "limit_amount": 1000,
+    "permission_type": "Rejected"
+  }
+}

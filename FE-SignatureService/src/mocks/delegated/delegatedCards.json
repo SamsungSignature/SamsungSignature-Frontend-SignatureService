@@ -1,0 +1,35 @@
+{
+  "message": "내가 받은 카드 목록이 성공적으로 조회되었습니다.",
+  "body": {
+    "cards": [
+      {
+        "id": 1,
+        "nickname": "싸피 법인카드",
+        "company": "신한",
+        "card_img": "defaultcard",
+        "expired_in": "2024-04-29"
+      },
+      {
+        "id": 2,
+        "nickname": "저녁밥용",
+        "company": "비씨",
+        "card_img": "bcwooricredit",
+        "expired_in": "2024-04-30"
+      },
+      {
+        "id": 3,
+        "nickname": "점심밥용",
+        "company": "비씨",
+        "card_img": "bcwooricheck",
+        "expired_in": "2024-04-29"
+      },
+      {
+        "id": 4,
+        "nickname": "아침밥용",
+        "company": "신한",
+        "card_img": "defaultcard",
+        "expired_in": "2024-04-30"
+      }
+    ]
+  }
+}

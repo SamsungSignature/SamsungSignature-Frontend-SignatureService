@@ -1,0 +1,17 @@
+{
+  "message": "빌려준 카드 목록 조회 성공",
+  "data": {
+    "given_cards": [
+      {
+        "card_id": 1,
+        "card_img": "카드 이미지1",
+        "card_name": "싸피 카드"
+      },
+      {
+        "card_id": 2,
+        "card_img": "카드 이미지2",
+        "card_name": "삼성 카드"
+      }
+    ]
+  }
+}

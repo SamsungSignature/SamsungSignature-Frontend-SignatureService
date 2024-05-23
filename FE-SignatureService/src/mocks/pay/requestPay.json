@@ -1,0 +1,13 @@
+{
+  "message": "일회성 대리 결제가 성공적으로 요청되었습니다.",
+  "body": {
+    "to_id": 14,
+    "to_name": "김철수",
+    "limit_amount": 20000,
+    "constraints": {
+      "market_name": "GS25",
+      "item": "닭꼬치",
+      "item_image": ""
+    }
+  }
+}

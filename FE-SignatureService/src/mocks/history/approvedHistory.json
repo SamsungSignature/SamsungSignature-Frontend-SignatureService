@@ -1,0 +1,49 @@
+{
+  "message": "사용자 대리 결제 승인 내역 조회 성공",
+  "body": {
+    "signature_history_list": [
+      {
+        "signature_detail_id": 4,
+        "to_name": "박주현",
+        "permission_status": "APPROVED",
+        "signature_date": "2024-04-03",
+        "limit_amount": 10000
+      },
+      {
+        "signature_detail_id": 5,
+        "to_name": "최준호",
+        "permission_status": "INPROGRESS",
+        "signature_date": "2024-04-03",
+        "limit_amount": 20000
+      },
+      {
+        "signature_detail_id": 6,
+        "to_name": "차민재",
+        "permission_status": "REJECTED",
+        "signature_date": "2024-04-02",
+        "limit_amount": 30000
+      },
+      {
+        "signature_detail_id": 10,
+        "to_name": "박주현2",
+        "permission_status": "APPROVED",
+        "signature_date": "2024-04-02",
+        "limit_amount": 40000
+      },
+      {
+        "signature_detail_id": 11,
+        "to_name": "최준호2",
+        "permission_status": "INPROGRESS",
+        "signature_date": "2024-04-01",
+        "limit_amount": 50000
+      },
+      {
+        "signature_detail_id": 12,
+        "to_name": "차민재2",
+        "permission_status": "REJECTED",
+        "signature_date": "2024-04-01",
+        "limit_amount": 60000
+      }
+    ]
+  }
+}

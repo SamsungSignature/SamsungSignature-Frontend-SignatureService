@@ -1,0 +1,12 @@
+{
+  "message": "applied 상세 내역 조회 성공",
+  "body": {
+    "signature_detail_id": 2,
+    "limit_amount": 20000,
+    "signature_date": "2023-10-08",
+    "limit_date": "2023-11-22",
+    "market_name": "이마트",
+    "item": "달달한 바나나",
+    "permission_status": "REJECTED"
+  }
+}

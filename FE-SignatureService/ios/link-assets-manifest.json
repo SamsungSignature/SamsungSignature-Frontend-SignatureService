@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/styles/font/SamsungSans-Bold.ttf",
+      "sha1": "bf2efc9fb1a0533d9910a0b0cfeb52290bb7a88a"
+    },
+    {
+      "path": "src/assets/styles/font/SamsungSans-Regular.ttf",
+      "sha1": "4d912a5f84d3cc776c0f8e99a7f1153a1a4859e8"
+    }
+  ]
+}

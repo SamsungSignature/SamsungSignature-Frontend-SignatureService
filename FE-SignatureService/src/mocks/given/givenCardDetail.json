@@ -1,0 +1,27 @@
+{
+  "message": "내가 빌려준 카드 세부 내역 조회 성공",
+  "data": {
+    "given_card_detail_list": [
+      {
+        "given_card_id": 1,
+        "card_username": "김태규",
+        "validate_type": "ON"
+      },
+      {
+        "given_card_id": 2,
+        "card_username": "김미서",
+        "validate_type": "OFF"
+      },
+      {
+        "given_card_id": 3,
+        "card_username": "차민재",
+        "validate_type": "ON"
+      },
+      {
+        "given_card_id": 4,
+        "card_username": "최준호",
+        "validate_type": "OFF"
+      }
+    ]
+  }
+}

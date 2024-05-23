@@ -1,0 +1,49 @@
+{
+  "message": "사용자 대리 결제 요청 내역 조회 성공",
+  "body": {
+    "signature_history_list": [
+      {
+        "signature_detail_id": 1,
+        "to_name": "김태규",
+        "permission_status": "APPROVED",
+        "signature_date": "2024-05-03",
+        "limit_amount": 10000
+      },
+      {
+        "signature_detail_id": 2,
+        "to_name": "남희수",
+        "permission_status": "INPROGRESS",
+        "signature_date": "2024-05-03",
+        "limit_amount": 20000
+      },
+      {
+        "signature_detail_id": 3,
+        "to_name": "김미서",
+        "permission_status": "REJECTED",
+        "signature_date": "2024-05-02",
+        "limit_amount": 30000
+      },
+      {
+        "signature_detail_id": 7,
+        "to_name": "김태규2",
+        "permission_status": "APPROVED",
+        "signature_date": "2024-05-02",
+        "limit_amount": 40000
+      },
+      {
+        "signature_detail_id": 8,
+        "to_name": "남희수2",
+        "permission_status": "INPROGRESS",
+        "signature_date": "2024-05-01",
+        "limit_amount": 50000
+      },
+      {
+        "signature_detail_id": 9,
+        "to_name": "김미서2",
+        "permission_status": "REJECTED",
+        "signature_date": "2024-05-01",
+        "limit_amount": 60000
+      }
+    ]
+  }
+}
